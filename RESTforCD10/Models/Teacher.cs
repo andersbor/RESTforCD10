@@ -8,7 +8,7 @@
 
         public void ValidateSalary()
         {
-            if (Salary < 1000)
+            if (Salary < 0)
             {
                 throw new ArgumentOutOfRangeException("Salary is too low");
             }
