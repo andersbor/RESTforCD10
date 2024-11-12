@@ -5,6 +5,8 @@ VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RESTforCD10", "RESTforCD10\RESTforCD10.csproj", "{C0CC97AD-18E7-4CB7-BA52-7FA36A37070F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RESTforCD10Tests", "RESTforCD10Tests\RESTforCD10Tests.csproj", "{6B969BB0-00AA-4F30-8FA6-88B16D0ACC90}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C0CC97AD-18E7-4CB7-BA52-7FA36A37070F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C0CC97AD-18E7-4CB7-BA52-7FA36A37070F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C0CC97AD-18E7-4CB7-BA52-7FA36A37070F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B969BB0-00AA-4F30-8FA6-88B16D0ACC90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B969BB0-00AA-4F30-8FA6-88B16D0ACC90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B969BB0-00AA-4F30-8FA6-88B16D0ACC90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B969BB0-00AA-4F30-8FA6-88B16D0ACC90}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
