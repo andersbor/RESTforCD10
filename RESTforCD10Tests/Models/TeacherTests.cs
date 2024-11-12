@@ -22,6 +22,8 @@ namespace RESTforCD10.Models.Tests
             teacherZeroSalary.ValidateSalary();
             Assert.ThrowsException<ArgumentOutOfRangeException>(
                 () => teacherNegativeSalary.ValidateSalary());
+
+           
         }
     }
 }
